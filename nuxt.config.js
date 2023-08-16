@@ -45,5 +45,9 @@ export default {
 
   router: {
     base: '/app/'
+  },
+  
+  static: {
+    prefix: '/app/'
   }
 }
